@@ -24,6 +24,6 @@ Closes connections and returns response
 This allows sending a message and getting the response securely over SSL.
 
 Requirements
-.NET Core 3.1+
+.NET 6+
 NuGet Package:
 System.Net.Security
