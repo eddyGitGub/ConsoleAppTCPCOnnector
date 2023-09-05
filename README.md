@@ -5,8 +5,11 @@
 Call the PostMessageWithSSLAsync method passing in:
 
 message - The string message to send
+
 server - The server IP or hostname
+
 port - The TCP port of the server
+
 clientCertificate - X509 certificate for client authentication (optional)
 
 
